@@ -357,6 +357,20 @@ else{
               ?>
 
               </div>
+                  <div class="property-location page-container">
+          <h1>Location</h1>
+              <div class="row">
+              <div class="col-md-6">
+                  <h5>City</h5>
+          <p><?php echo $city_name; ?></p>
+              </div>
+              <div class="col-md-6">
+                  <h5>Address</h5>
+            <p><?php echo $pg_address; ?></p>
+        </div>
+    </div>
+    <!-- You can also add a map or other location-related information here if needed -->
+</div>
           </div>
       </div>
     </div>

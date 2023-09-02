@@ -51,30 +51,17 @@
 
   <div class="city-container">
     <div class="city-caption">
-      <h2>Major Cities</h2>
+      <h2>City</h2>
     </div>
     <div class="city-box">
 
-      <div class="city-img">
-        <a href="property_list.php?city=Delhi">
-          <img src="./img/delhi.png" alt="Delhi">
-        </a>
-      </div>
-      <div class="city-img">
-        <a href="property_list.php?city=Mumbai">
-          <img src="./img/mumbai.png" alt="Mumbai">
-        </a>
-      </div>
+      
       <div class="city-img">
         <a href="property_list.php?city=Lucknow">
           <img src="./img/lucknow.png" alt="Lucknow">
         </a>
       </div>
-      <div class="city-img">
-        <a href="property_list.php?city=Bengaluru">
-          <img src="./img/bangalore.png" alt="Bengaluru">
-        </a>
-      </div>
+      
 
     </div>
   </div>

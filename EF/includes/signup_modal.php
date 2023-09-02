@@ -4,7 +4,7 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="signup-heading">Signup with PGLife</h5>
+                <h5 class="modal-title" id="signup-heading">Signup with EASY FINDS</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
@@ -66,12 +66,18 @@
                         <label for="gender-female">
                             Female
                         </label>
+                        <input type="radio" class="ml-3" id="gender-other" name="gender" value="other" /> Other
+                        <label for="gender-other">
+                        </label>
                     </div>
 
                     <div class="form-group">
                         <button type="submit" class="btn btn-block btn-primary">Create Account</button>
                     </div>
-                </form>
+                    <div class="form-group">
+                        <span>For any inquiries, please contact us on <a href="mailto:info@example.com">info@example.com</a>.</span>
+                    </div>
+                 </form>
             </div>
 
             <div class="modal-footer">
